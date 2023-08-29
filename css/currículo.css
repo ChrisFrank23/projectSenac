@@ -1,0 +1,65 @@
+.nome{
+    font-size: 50px;
+}
+.linhaum{
+color: black;
+background-color: black;
+}
+
+.menu{
+float:right;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    padding: 0px;
+    margin: 0;
+    font-size: 25px;
+}
+header{
+    background-color: darkgray;
+    color: black;
+    text-align: left;
+    padding: 25px;
+   
+}
+.educacao{
+    width: 100%;
+    background-color:darkgray;
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+    border-radius: 5px;
+}
+.umparte{
+text-align: left;
+padding: 25px;
+font-size: 25px;
+}
+.exp{
+    width: 100%;
+    background-color:darkgray;
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+    border-radius: 5px;
+}
+.doisparte{
+    text-align: left;
+    padding: 25px; 
+    font-size: 25px;
+}
+
+.inter{
+    width: 100%;
+    background-color:darkgray;
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+    border-radius: 5px;
+}
+.tresparte{
+    font-size: 25px;
+    text-align: left;
+    padding: 25px;
+}
